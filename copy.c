@@ -7,7 +7,7 @@
 #define BUF_SIZE 1024
 #endif
 
-
+#define _GH_JENKINS 1
 
 int main(int argc, char* argv[]) {
     int input_fd, output_fd, open_flags;
